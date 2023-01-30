@@ -10,4 +10,4 @@
   
 ### [*] Execução:
 
-![Alt text](screenshots/Execucao.gif "Execucao do SO")
+![Alt text](Execucao.gif "Execucao do SO")
