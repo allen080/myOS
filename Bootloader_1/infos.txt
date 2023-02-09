@@ -1,0 +1,6 @@
+BIOS Disk Service: Rotinas assembly disponiveis pela BIOS para se acessar o kernel pelo bootloader
+
+CHS: endereçar setores no HD, para carregar o kernel.
+
+MBR: parte do bootloader, onde tem o codigo presente no primeiro setor quando inicia o
+    boot do pc. geralmente verifica a presença de um OS e o carrega
